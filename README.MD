@@ -1,7 +1,7 @@
-# Project Name
+# TreeHUB
 
-[![GitHub license](https://img.shields.io/github/license/your-username/project-name)](https://github.com/your-username/project-name/blob/main/LICENSE)
-
+ 
+<!-- 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -10,17 +10,15 @@
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](#contact) -->
 
 ## Introduction
-This project is a web-based application built to provide a platform for [brief description of what the project does]. It is built using modern web technologies and is optimized for performance.
+This project is a web-based application built to provide a platform for TreeHUB. It is built using modern web technologies and is optimized for performance.
 
-## Features
-- User authentication
+## Features 
 - Product listing and management
 - Shopping cart functionality
-- Admin dashboard
-- [Add more features based on your project]
+- Product Managment dashboard 
 
 ## Installation
 Follow these steps to install and run the project locally.
@@ -30,6 +28,9 @@ Make sure you have the following installed:
 - Node.js (>= v14)
 - Git
 - MongoDB (for backend projects)
+
+### Live Link
+https://treehub-theta.vercel.app/
 
 ### Clone the repository
 ```bash
